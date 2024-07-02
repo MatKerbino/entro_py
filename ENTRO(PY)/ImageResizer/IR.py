@@ -6,4 +6,4 @@ print(f"Current size: {image.size}")
 
 resized_image = image.resize((50, 50))
 
-resized_image.save('bussyPlush-500.jpeg')
+resized_image.save('Plush-500.jpeg')
